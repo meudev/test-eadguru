@@ -1,0 +1,119 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Curso Python",
+            "description": "Lorem ipsum dolor sit amet. Et commodi harum ut provident quae est labore error non commodi sunt ut unde illo qui laboriosam iste in galisum enim. Hic velit placeat est ullam blanditiis ab accusantium ullam ex molestiae veniam et molestias modi et temporibus minima et consequatur commodi. Et sapiente corporis aut quia internos id ullam maiores rem molestiae temporibus. A voluptas fuga ut necessitatibus officiis et doloribus quam ad maxime necessitatibus eum dolorem voluptatem ut neque perferendis. Non repellendus animi At architecto corrupti ad dignissimos harum? Est excepturi dignissimos sit odio Quis non earum beatae aut distinctio nobis sit voluptatem officiis ea facere quos et dolores totam. Et sunt fugit sit porro accusantium ea deleniti autem et omnis commodi et doloribus debitis eum necessitatibus explicabo qui porro nihil. Et quia voluptatem quo commodi distinctio et voluptas velit est perspiciatis dolorum eum nulla voluptates ut deserunt dolorem ut atque totam. At quia consequatur est delectus voluptate est maxime minus in tempore eaque non distinctio adipisci in sunt quibusdam. Et doloribus officia qui culpa natus est sint doloremque ex ducimus voluptas quo quod explicabo est internos voluptas vel repudiandae quis!",
+            "photo": "https://img-c.udemycdn.com/course/750x422/1927044_a831.jpg",
+            "teacher": "Mauro Faria",
+            "duration": 120,
+            "classes": [
+                {
+                    "classNumber": 1,
+                    "title": "#01 - Seja um Programador",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                },
+                {
+                    "classNumber": 2,
+                    "title": "#02 - Para que serve o Python?",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                },
+                {
+                    "classNumber": 3,
+                    "title": "#03 - Instalando o Python3 e o IDLE",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                },
+                {
+                    "classNumber": 4,
+                    "title": "#04 - Primeiros comandos em Python3",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                },
+                {
+                    "classNumber": 5,
+                    "title": "#05 - Instalando o PyCharm e o QPython3",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                },
+                {
+                    "classNumber": 6,
+                    "title": "#06 - Tipos Primitivos e Saída de Dados",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Curso Java",
+            "description": "Lorem ipsum dolor sit amet. Et commodi harum ut provident quae est labore error non commodi sunt ut unde illo qui laboriosam iste in galisum enim. Hic velit placeat est ullam blanditiis ab accusantium ullam ex molestiae veniam et molestias modi et temporibus minima et consequatur commodi. Et sapiente corporis aut quia internos id ullam maiores rem molestiae temporibus. A voluptas fuga ut necessitatibus officiis et doloribus quam ad maxime necessitatibus eum dolorem voluptatem ut neque perferendis. Non repellendus animi At architecto corrupti ad dignissimos harum? Est excepturi dignissimos sit odio Quis non earum beatae aut distinctio nobis sit voluptatem officiis ea facere quos et dolores totam. Et sunt fugit sit porro accusantium ea deleniti autem et omnis commodi et doloribus debitis eum necessitatibus explicabo qui porro nihil. Et quia voluptatem quo commodi distinctio et voluptas velit est perspiciatis dolorum eum nulla voluptates ut deserunt dolorem ut atque totam. At quia consequatur est delectus voluptate est maxime minus in tempore eaque non distinctio adipisci in sunt quibusdam. Et doloribus officia qui culpa natus est sint doloremque ex ducimus voluptas quo quod explicabo est internos voluptas vel repudiandae quis!",
+            "photo": "https://1.bp.blogspot.com/-iGcngsQpp_U/X-kDS0OTcPI/AAAAAAAAccg/UTu5XcZJ_YIWaxd1LLMEs6PWINKaIQtpQCLcBGAsYHQ/s700/POST_MAT.jpg",
+            "teacher": "Guilherme Junqueira",
+            "duration": 180,
+            "classes": [
+                {
+                    "classNumber": 1,
+                    "title": "Aula 1",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                },
+                {
+                    "classNumber": 2,
+                    "title": "Aula 2",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                },
+                {
+                    "classNumber": 3,
+                    "title": "Aula 3",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Administração Pública",
+            "description": "Lorem ipsum dolor sit amet. Et commodi harum ut provident quae est labore error non commodi sunt ut unde illo qui laboriosam iste in galisum enim. Hic velit placeat est ullam blanditiis ab accusantium ullam ex molestiae veniam et molestias modi et temporibus minima et consequatur commodi. Et sapiente corporis aut quia internos id ullam maiores rem molestiae temporibus. A voluptas fuga ut necessitatibus officiis et doloribus quam ad maxime necessitatibus eum dolorem voluptatem ut neque perferendis. Non repellendus animi At architecto corrupti ad dignissimos harum? Est excepturi dignissimos sit odio Quis non earum beatae aut distinctio nobis sit voluptatem officiis ea facere quos et dolores totam. Et sunt fugit sit porro accusantium ea deleniti autem et omnis commodi et doloribus debitis eum necessitatibus explicabo qui porro nihil. Et quia voluptatem quo commodi distinctio et voluptas velit est perspiciatis dolorum eum nulla voluptates ut deserunt dolorem ut atque totam. At quia consequatur est delectus voluptate est maxime minus in tempore eaque non distinctio adipisci in sunt quibusdam. Et doloribus officia qui culpa natus est sint doloremque ex ducimus voluptas quo quod explicabo est internos voluptas vel repudiandae quis!",
+            "photo": "https://gyncursos.com.br/wp-content/uploads/2018/11/curso-de-administracao-publica.jpg",
+            "teacher": "Mauro Faria",
+            "duration": 120,
+            "classes": [
+                {
+                    "classNumber": 1,
+                    "title": "Aula 1",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                },
+                {
+                    "classNumber": 2,
+                    "title": "Aula 2",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                },
+                {
+                    "classNumber": 3,
+                    "title": "Aula 3",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Contabilidade Básica",
+            "description": "Lorem ipsum dolor sit amet. Et commodi harum ut provident quae est labore error non commodi sunt ut unde illo qui laboriosam iste in galisum enim. Hic velit placeat est ullam blanditiis ab accusantium ullam ex molestiae veniam et molestias modi et temporibus minima et consequatur commodi. Et sapiente corporis aut quia internos id ullam maiores rem molestiae temporibus. A voluptas fuga ut necessitatibus officiis et doloribus quam ad maxime necessitatibus eum dolorem voluptatem ut neque perferendis. Non repellendus animi At architecto corrupti ad dignissimos harum? Est excepturi dignissimos sit odio Quis non earum beatae aut distinctio nobis sit voluptatem officiis ea facere quos et dolores totam. Et sunt fugit sit porro accusantium ea deleniti autem et omnis commodi et doloribus debitis eum necessitatibus explicabo qui porro nihil. Et quia voluptatem quo commodi distinctio et voluptas velit est perspiciatis dolorum eum nulla voluptates ut deserunt dolorem ut atque totam. At quia consequatur est delectus voluptate est maxime minus in tempore eaque non distinctio adipisci in sunt quibusdam. Et doloribus officia qui culpa natus est sint doloremque ex ducimus voluptas quo quod explicabo est internos voluptas vel repudiandae quis!",
+            "photo": "https://gyncursos.com.br/wp-content/uploads/2019/09/curso-de-contabilidade-basica.gif",
+            "teacher": "Guilherme Junqueira",
+            "duration": 180,
+            "classes": [
+                {
+                    "classNumber": 1,
+                    "title": "Aula 1",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                },
+                {
+                    "classNumber": 2,
+                    "title": "Aula 2",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                },
+                {
+                    "classNumber": 3,
+                    "title": "Aula 3",
+                    "video": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+                }
+            ]
+        }
+    ]
+}
